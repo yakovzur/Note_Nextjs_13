@@ -27,7 +27,7 @@ const IsCompletedButton = ({pram}) => {
     <button onClick={() => handleChange}
         type='submit'
         className='ml-2 text-sm px-2 py-1 border border-emerald-400 rounded bg-emerald-400 text-white disabled:bg-opacity-50'
-        >
+    >
     </button>
   )
 }
